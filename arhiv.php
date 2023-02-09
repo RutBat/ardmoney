@@ -3,6 +3,7 @@
 <div class="alert alert-danger" role="alert">
 !!Информация прошлого года!!
 </div>
+
 <?
 include "inc/head.php";
 AutorizeProtect();
